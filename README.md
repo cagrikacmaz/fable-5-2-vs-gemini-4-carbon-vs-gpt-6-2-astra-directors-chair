@@ -1,5 +1,7 @@
 # Director's chair: Fable 5.2 vs Gemini 4 Carbon vs GPT-6.2 Astra
 
+<a href="https://youtu.be/xzpxLuNdRxM"><img src="media/cover.jpg" alt="All three trailers in one video" width="100%"></a>
+
 ## 1. What this is
 
 In GTA VI's launch week, three flagship models each invented an open-world game and directed its 30 second launch trailer.
@@ -11,6 +13,14 @@ In GTA VI's launch week, three flagship models each invented an open-world game 
 The author wrote the brief and the constraints, ran the production desk, and reviewed the results. The directors only wrote orders.
 
 ## 2. The trailers
+
+<p>
+<a href="https://youtu.be/3rj_qZRf4R4"><img src="media/moondrawn.jpg" alt="MOONDRAWN trailer (Fable 5.2)" width="32%"></a>
+<a href="https://youtu.be/UJMxU4khXvc"><img src="media/neapscar.jpg" alt="NEAPSCAR trailer (Gemini 4 Carbon)" width="32%"></a>
+<a href="https://youtu.be/qL6d9SDU_ao"><img src="media/morrow-under-tow.jpg" alt="Morrow Under Tow trailer (GPT-6.2 Astra)" width="32%"></a>
+</p>
+
+Cover images were made with an image model from real trailer frames. same-premise.jpg shows unedited frames.
 
 | Game | Director | Tagline | Price | Release date | Trailer |
 |---|---|---|---|---|---|
@@ -88,6 +98,10 @@ From `desk/RUNLOG.md`. Times are Istanbul time.
 **a. Two directors invented the same premise independently.**
 The sea drains away. A salvager works the dry seabed. The water comes back as a wall. Both GAME.md files call that wave "the Return".
 See `directors/fable-5-2/GAME.md` (feature 2) and `directors/gemini-4-carbon/GAME.md` (pitch).
+
+<img src="media/same-premise.jpg" alt="Left: MOONDRAWN. Right: NEAPSCAR." width="100%">
+
+*Left: MOONDRAWN (Fable 5.2). Right: NEAPSCAR (Gemini 4 Carbon). Unedited frames from the two final cuts.*
 
 **b. No director heard its own trailer.**
 All three chose the music by measurement.
