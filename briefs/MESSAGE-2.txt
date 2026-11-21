@@ -1,0 +1,1 @@
+Your round 1 dailies are in dailies-1/. LEDGER.md shows what was spent and what remains. Review them and write ORDERS-2.md in the same format, or write "No further orders". Same rules. No questions.

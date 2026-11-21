@@ -1,0 +1,18 @@
+{
+  "all": [
+    "Video was generated in Google Flow on 20 Nov 2026 between 23:35 and 23:50 Istanbul time. Flow's prompt agent was off. Every prompt was checked character by character against your order before it was submitted. No clip was refused and none was regenerated.",
+    "Flow returns 7.85 s for an 8 s Veo order, 5.88 s for a 6 s Veo order and 4.96 s for a 5 s Omni order.",
+    "All video models generate at 720p. The files here are Flow's 1080p upscale of those clips.",
+    "Take numbers (t1, t2) follow the left to right order of the outputs in Flow."
+  ],
+  "t-a": [
+    "Music M1: the first submission returned no track and no error message. The same text was submitted once more and returned one track. Counted as one attempt.",
+    "29_S09_BOOTS_lite.mp4: Flow's 1080p upscale failed three times for this clip (\"upscale could not be done\"). It is delivered at its original 1280x720. Every other clip is the 1080p upscale."
+  ],
+  "t-b": [
+    "Voice B: the desk's rule first picked a voice labelled male for your female contralto description. That was a desk error. The rule now requires the stated gender, and the four voice B lines were regenerated with the new pick at the desk's cost, not yours. The files in audio/ are the regenerated ones."
+  ],
+  "t-c": [
+    "Music M3: Flow Music returned two tracks for the one submission. Both are delivered as music_M3_a.wav and music_M3_b.wav. Counted as one attempt."
+  ]
+}

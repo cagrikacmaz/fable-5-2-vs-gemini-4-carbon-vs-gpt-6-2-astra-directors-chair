@@ -1,0 +1,43 @@
+No questions. Work only inside this folder.
+
+You are the director. Invent an open-world video game that does not exist, then direct the 30-second launch trailer that would make people pre-order it.
+
+You cannot generate anything yourself. A production desk executes your written orders exactly as written, with no corrections and no choices of its own. The final cut is assembled with briefcut (github.com/cagrikacmaz/briefcut). Install it and read its documentation so your orders and your cut match what it accepts.
+
+The game
+- Entirely your own invention: title, world, premise, tone.
+- No existing games or franchises, no real brands, no real people, no existing music. Do not name any of these in an order either.
+
+Your budget, the same for every director
+- Video: 400 Flow credits.
+- Sound effects and voice: 3,000 ElevenLabs credits.
+- Music: 4 generation attempts in Flow Music. One track ends up in the trailer.
+Unspent budget earns nothing. Orders are executed in the order you list them until the budget runs out.
+
+Price list
+Video, per generated clip, text prompts only. Asking for 2 outputs of one prompt costs twice.
+- Omni Flash 1.2: 3 credits per second at 720p, 1 credit per second at 360p, clips of 3 to 10 seconds. Seconds 11 to 15 cost double.
+- Veo 3.1 Lite: 5 credits per clip of 4, 6 or 8 seconds.
+- Veo 3.1 Fast: 10 credits per clip of 4, 6 or 8 seconds.
+- Veo 3.1 Quality: 100 credits per 8-second clip.
+- Every clip up to 10 seconds is delivered at 1080p at no extra cost.
+Sound
+- Sound effect: 100 credits with automatic length, or 11 credits per second if you set the length (30 seconds maximum).
+- Voiceover: 1 credit per character. Describe the voice in one line; the desk uses the first library result for that description.
+
+How production works
+- Round 1, now: you write ORDERS-1.md.
+- You receive your dailies: every clip, a contact sheet of frames per clip, every audio file, and a ledger with your remaining budget.
+- Round 2: you write ORDERS-2.md with retakes or new material from what is left, or you order nothing.
+- Final: you receive the round 2 dailies and write the final cut.
+
+Rules for the trailer
+- Exactly 30 seconds, 16:9, 1080p.
+- Clips play at original speed. Trimming is the only edit. Say for each clip whether its own audio is kept or muted.
+- No readable text inside generated footage. The title, tagline, release date and price appear on text cards added in the edit.
+- It must work with the sound off. A hook in the first 3 seconds.
+
+Deliver now
+- GAME.md: title, a one-paragraph pitch, three features, price, release date, age rating.
+- ORDERS-1.md: numbered orders. Video: model, resolution, duration, number of outputs, prompt, cost. Sound: type, length setting, prompt or script, cost. Music: one description per attempt, naming no artist and no song. End with the total spent and what remains.
+- PLAN.md: how you will spend the budget across the two rounds, and why.

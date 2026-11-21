@@ -1,0 +1,864 @@
+{
+ "t-a": {
+  "video": [
+   {
+    "order": 78,
+    "label": "S02_PIER_r2_fast",
+    "model": "Veo 3.1 Fast",
+    "duration": 8,
+    "outputs": 2,
+    "cost": 20,
+    "resolution": "1080p delivery, 16:9 landscape",
+    "prompt": "Shot from behind and slightly above a young woman salvager with a long black braid, wearing a bright mustard-yellow oilskin coat and tall dark boots. She stands still at the very end of a wooden pier, facing the sea, her coat flapping in the wind. From the very first second the turquoise sea in front of her rushes away toward the horizon at impossible speed, the waterline racing into the distance and leaving a vast glistening wet seabed of rocks and kelp, with old wooden sailing boats dropping and settling onto the sand, their plain weathered hulls completely bare. The camera pushes in slowly over her shoulder. An enormous pale daytime moon, many times larger than normal, fills the sky ahead of her. Cinematic footage from a big-budget open-world adventure video game, real-time rendered stylized realism with painterly detail, warm golden late-afternoon light, turquoise water, silver wet sand, bright and crisp, 16:9 widescreen. No text, no letters, no numbers, no captions, no subtitles, no logos, no watermark, no interface, no HUD. No dialogue, no narration, no music."
+   },
+   {
+    "order": 79,
+    "label": "S14_RETURN_r2_fast",
+    "model": "Veo 3.1 Fast",
+    "duration": 8,
+    "outputs": 2,
+    "cost": 20,
+    "resolution": "1080p delivery, 16:9 landscape",
+    "prompt": "Shot from behind and slightly above a young woman salvager with a long black braid, wearing a bright mustard-yellow oilskin coat and tall dark boots. She stands still on a drained seabed, wet silver sand and stranded kelp all around her, colossal ancient wooden shipwrecks leaning in the sand on both sides. From the very first second a thin white line along the entire far horizon grows fast into a towering wall of white foaming seawater that rushes toward her, and a thin sheet of water streams back across the sand around her boots. She takes one step backward. The camera pushes in slowly over her shoulder. An enormous pale daytime moon, many times larger than normal, fills the sky above the wave. Cinematic footage from a big-budget open-world adventure video game, real-time rendered stylized realism with painterly detail, warm golden late-afternoon light, turquoise water, silver wet sand, bright and crisp, 16:9 widescreen. No text, no letters, no numbers, no captions, no subtitles, no logos, no watermark, no interface, no HUD. No dialogue, no narration, no music."
+   },
+   {
+    "order": 80,
+    "label": "S13_LEAP_r2_fast",
+    "model": "Veo 3.1 Fast",
+    "duration": 8,
+    "outputs": 2,
+    "cost": 20,
+    "resolution": "1080p delivery, 16:9 landscape",
+    "prompt": "Low-angle wide shot looking up from wet sand. A towering wall of white foaming seawater fills the lower half of the frame. In the very first second a small one-person sand-yacht (a narrow wooden boat-shaped hull riding on three large spoked wheels under a single tall rust-red triangular sail) bursts out of the crest of the wave and flies through the air from left to right in one high arc, wheels spinning, spray exploding into golden light. At its tiller stands a young woman salvager with a long black braid, wearing a bright mustard-yellow oilskin coat and tall dark boots, her coat and braid streaming behind her. At the top of the arc the airborne sand-yacht is silhouetted against an enormous pale daytime moon that fills the sky behind it. The camera tilts up to follow the leap. Cinematic footage from a big-budget open-world adventure video game, real-time rendered stylized realism with painterly detail, warm golden late-afternoon light, turquoise water, silver wet sand, bright and crisp, 16:9 widescreen. No text, no letters, no numbers, no captions, no subtitles, no logos, no watermark, no interface, no HUD. No dialogue, no narration, no music."
+   },
+   {
+    "order": 81,
+    "label": "S14_RETURN_r2_omni",
+    "model": "Omni Flash 1.2",
+    "duration": 5,
+    "outputs": 1,
+    "cost": 15,
+    "resolution": "720p generation (3 credits per second), delivered at 1080p, 16:9 landscape",
+    "prompt": "Shot from behind and slightly above a young woman salvager with a long black braid, wearing a bright mustard-yellow oilskin coat and tall dark boots. She stands still on a drained seabed, wet silver sand and stranded kelp all around her, colossal ancient wooden shipwrecks leaning in the sand on both sides. From the very first second a thin white line along the entire far horizon grows fast into a towering wall of white foaming seawater that rushes toward her, and a thin sheet of water streams back across the sand around her boots. She takes one step backward. The camera pushes in slowly over her shoulder. An enormous pale daytime moon, many times larger than normal, fills the sky above the wave. Cinematic footage from a big-budget open-world adventure video game, real-time rendered stylized realism with painterly detail, warm golden late-afternoon light, turquoise water, silver wet sand, bright and crisp, 16:9 widescreen. No text, no letters, no numbers, no captions, no subtitles, no logos, no watermark, no interface, no HUD. No dialogue, no narration, no music."
+   },
+   {
+    "order": 82,
+    "label": "S13_LEAP_r2_omni",
+    "model": "Omni Flash 1.2",
+    "duration": 5,
+    "outputs": 1,
+    "cost": 15,
+    "resolution": "720p generation (3 credits per second), delivered at 1080p, 16:9 landscape",
+    "prompt": "Low-angle wide shot looking up from wet sand. A towering wall of white foaming seawater fills the lower half of the frame. In the very first second a small one-person sand-yacht (a narrow wooden boat-shaped hull riding on three large spoked wheels under a single tall rust-red triangular sail) bursts out of the crest of the wave and flies through the air from left to right in one high arc, wheels spinning, spray exploding into golden light. At its tiller stands a young woman salvager with a long black braid, wearing a bright mustard-yellow oilskin coat and tall dark boots, her coat and braid streaming behind her. At the top of the arc the airborne sand-yacht is silhouetted against an enormous pale daytime moon that fills the sky behind it. The camera tilts up to follow the leap. Cinematic footage from a big-budget open-world adventure video game, real-time rendered stylized realism with painterly detail, warm golden late-afternoon light, turquoise water, silver wet sand, bright and crisp, 16:9 widescreen. No text, no letters, no numbers, no captions, no subtitles, no logos, no watermark, no interface, no HUD. No dialogue, no narration, no music."
+   },
+   {
+    "order": 83,
+    "label": "S03_LAUNCH_r2_fast",
+    "model": "Veo 3.1 Fast",
+    "duration": 8,
+    "outputs": 1,
+    "cost": 10,
+    "resolution": "1080p delivery, 16:9 landscape",
+    "prompt": "Low tracking shot at wheel height, moving fast alongside a small one-person sand-yacht (a narrow wooden boat-shaped hull riding on three large spoked wheels under a single tall rust-red triangular sail) as it races away from a wooden slipway across a drained seabed: wet silver sand, rocks and stranded kelp stretching all the way to the horizon, the sea completely gone. In the very first second the rust-red sail snaps full of wind and the sand-yacht surges forward, thin spray flying from its wheels. At the tiller crouches a young woman salvager with a long black braid, wearing a bright mustard-yellow oilskin coat and tall dark boots, leaning forward. Behind her, the wooden stilt houses of a fishing town recede, their stilts standing on bare sand. An enormous pale daytime moon, many times larger than normal, hangs low in the sky. Cinematic footage from a big-budget open-world adventure video game, real-time rendered stylized realism with painterly detail, warm golden late-afternoon light, turquoise water, silver wet sand, bright and crisp, 16:9 widescreen. No text, no letters, no numbers, no captions, no subtitles, no logos, no watermark, no interface, no HUD. No dialogue, no narration, no music."
+   },
+   {
+    "order": 84,
+    "label": "S02_PIER_r2_lite",
+    "model": "Veo 3.1 Lite",
+    "duration": 8,
+    "outputs": 2,
+    "cost": 10,
+    "resolution": "1080p delivery, 16:9 landscape",
+    "prompt": "Shot from behind and slightly above a young woman salvager with a long black braid, wearing a bright mustard-yellow oilskin coat and tall dark boots. She stands still at the very end of a wooden pier, facing the sea, her coat flapping in the wind. From the very first second the turquoise sea in front of her rushes away toward the horizon at impossible speed, the waterline racing into the distance and leaving a vast glistening wet seabed of rocks and kelp, with old wooden sailing boats dropping and settling onto the sand, their plain weathered hulls completely bare. The camera pushes in slowly over her shoulder. An enormous pale daytime moon, many times larger than normal, fills the sky ahead of her. Cinematic footage from a big-budget open-world adventure video game, real-time rendered stylized realism with painterly detail, warm golden late-afternoon light, turquoise water, silver wet sand, bright and crisp, 16:9 widescreen. No text, no letters, no numbers, no captions, no subtitles, no logos, no watermark, no interface, no HUD. No dialogue, no narration, no music."
+   },
+   {
+    "order": 85,
+    "label": "S14_RETURN_r2_lite",
+    "model": "Veo 3.1 Lite",
+    "duration": 8,
+    "outputs": 2,
+    "cost": 10,
+    "resolution": "1080p delivery, 16:9 landscape",
+    "prompt": "Shot from behind and slightly above a young woman salvager with a long black braid, wearing a bright mustard-yellow oilskin coat and tall dark boots. She stands still on a drained seabed, wet silver sand and stranded kelp all around her, colossal ancient wooden shipwrecks leaning in the sand on both sides. From the very first second a thin white line along the entire far horizon grows fast into a towering wall of white foaming seawater that rushes toward her, and a thin sheet of water streams back across the sand around her boots. She takes one step backward. The camera pushes in slowly over her shoulder. An enormous pale daytime moon, many times larger than normal, fills the sky above the wave. Cinematic footage from a big-budget open-world adventure video game, real-time rendered stylized realism with painterly detail, warm golden late-afternoon light, turquoise water, silver wet sand, bright and crisp, 16:9 widescreen. No text, no letters, no numbers, no captions, no subtitles, no logos, no watermark, no interface, no HUD. No dialogue, no narration, no music."
+   },
+   {
+    "order": 86,
+    "label": "S13_LEAP_r2_lite",
+    "model": "Veo 3.1 Lite",
+    "duration": 8,
+    "outputs": 2,
+    "cost": 10,
+    "resolution": "1080p delivery, 16:9 landscape",
+    "prompt": "Low-angle wide shot looking up from wet sand. A towering wall of white foaming seawater fills the lower half of the frame. In the very first second a small one-person sand-yacht (a narrow wooden boat-shaped hull riding on three large spoked wheels under a single tall rust-red triangular sail) bursts out of the crest of the wave and flies through the air from left to right in one high arc, wheels spinning, spray exploding into golden light. At its tiller stands a young woman salvager with a long black braid, wearing a bright mustard-yellow oilskin coat and tall dark boots, her coat and braid streaming behind her. At the top of the arc the airborne sand-yacht is silhouetted against an enormous pale daytime moon that fills the sky behind it. The camera tilts up to follow the leap. Cinematic footage from a big-budget open-world adventure video game, real-time rendered stylized realism with painterly detail, warm golden late-afternoon light, turquoise water, silver wet sand, bright and crisp, 16:9 widescreen. No text, no letters, no numbers, no captions, no subtitles, no logos, no watermark, no interface, no HUD. No dialogue, no narration, no music."
+   },
+   {
+    "order": 87,
+    "label": "S03_LAUNCH_r2_lite",
+    "model": "Veo 3.1 Lite",
+    "duration": 8,
+    "outputs": 2,
+    "cost": 10,
+    "resolution": "1080p delivery, 16:9 landscape",
+    "prompt": "Low tracking shot at wheel height, moving fast alongside a small one-person sand-yacht (a narrow wooden boat-shaped hull riding on three large spoked wheels under a single tall rust-red triangular sail) as it races away from a wooden slipway across a drained seabed: wet silver sand, rocks and stranded kelp stretching all the way to the horizon, the sea completely gone. In the very first second the rust-red sail snaps full of wind and the sand-yacht surges forward, thin spray flying from its wheels. At the tiller crouches a young woman salvager with a long black braid, wearing a bright mustard-yellow oilskin coat and tall dark boots, leaning forward. Behind her, the wooden stilt houses of a fishing town recede, their stilts standing on bare sand. An enormous pale daytime moon, many times larger than normal, hangs low in the sky. Cinematic footage from a big-budget open-world adventure video game, real-time rendered stylized realism with painterly detail, warm golden late-afternoon light, turquoise water, silver wet sand, bright and crisp, 16:9 widescreen. No text, no letters, no numbers, no captions, no subtitles, no logos, no watermark, no interface, no HUD. No dialogue, no narration, no music."
+   },
+   {
+    "order": 88,
+    "label": "S09_BOOTS_r2_lite",
+    "model": "Veo 3.1 Lite",
+    "duration": 8,
+    "outputs": 2,
+    "cost": 10,
+    "resolution": "1080p delivery, 16:9 landscape",
+    "prompt": "Low close-up at ground level on a pair of tall dark boots and the hem of a bright mustard-yellow oilskin coat, standing on flat wet silver sand that stretches empty to a far horizon, scattered with shells and kelp. From the very first second a thin fast sheet of foaming seawater races in across the sand from the far background, floods around the boots and keeps rising to ankle height. The boots turn quickly to face the incoming water. Static camera, shallow depth of field. Cinematic footage from a big-budget open-world adventure video game, real-time rendered stylized realism with painterly detail, warm golden late-afternoon light, turquoise water, silver wet sand, bright and crisp, 16:9 widescreen. No text, no letters, no numbers, no captions, no subtitles, no logos, no watermark, no interface, no HUD. No dialogue, no narration, no music."
+   },
+   {
+    "order": 89,
+    "label": "S12_RISE_r2_lite",
+    "model": "Veo 3.1 Lite",
+    "duration": 8,
+    "outputs": 2,
+    "cost": 10,
+    "resolution": "1080p delivery, 16:9 landscape",
+    "prompt": "Wide tracking shot, the camera racing alongside a towering wall of white foaming seawater that charges across a drained seabed. A colossal gentle sea giant, as big as a hill, with the smooth body of a whale, two long fins and one broad tail, its dark blue skin crusted with barnacles and coral and its mouth closed, bursts out of the front of the wave and swims powerfully forward inside it with a mighty sweep of its tail. Just ahead of the wave races a tiny sand-yacht with three wheels and a single rust-red triangular sail. An enormous pale daytime moon, many times larger than normal, hangs low in the sky. Cinematic footage from a big-budget open-world adventure video game, real-time rendered stylized realism with painterly detail, warm golden late-afternoon light, turquoise water, silver wet sand, bright and crisp, 16:9 widescreen. No text, no letters, no numbers, no captions, no subtitles, no logos, no watermark, no interface, no HUD. No dialogue, no narration, no music."
+   }
+  ],
+  "sound": [
+   {
+    "order": 90,
+    "label": "sfx_title_crack_1",
+    "type": "sfx",
+    "seconds": 3,
+    "cost": 33,
+    "prompt": "Explosive crack of a giant wave smashing a wooden pier: sharp bright splintering timber and a hard slap of water, loud in the middle and high frequencies, almost no deep bass. One hit, then spray falling."
+   },
+   {
+    "order": 91,
+    "label": "sfx_title_crack_2",
+    "type": "sfx",
+    "seconds": 3,
+    "cost": 33,
+    "prompt": "Explosive crack of a giant wave smashing a wooden pier: sharp bright splintering timber and a hard slap of water, loud in the middle and high frequencies, almost no deep bass. One hit, then spray falling."
+   },
+   {
+    "order": 92,
+    "label": "sfx_title_boom_1",
+    "type": "sfx",
+    "seconds": 6,
+    "cost": 66,
+    "prompt": "Massive cinematic trailer hit: thunderclap and huge metal clang struck together, bright, punchy and clearly audible on small speakers, followed by a long shimmering reverb tail that rings for five seconds. One hit only, no melody."
+   },
+   {
+    "order": 93,
+    "label": "sfx_title_boom_2",
+    "type": "sfx",
+    "seconds": 6,
+    "cost": 66,
+    "prompt": "Massive cinematic trailer hit: thunderclap and huge metal clang struck together, bright, punchy and clearly audible on small speakers, followed by a long shimmering reverb tail that rings for five seconds. One hit only, no melody."
+   },
+   {
+    "order": 94,
+    "label": "sfx_wall_long_1",
+    "type": "sfx",
+    "seconds": 10,
+    "cost": 110,
+    "prompt": "Enormous breaking wave chasing closer for ten seconds: continuous thunderous roar of whitewater that gets steadily louder and brighter right to the end, hissing foam on top of a deep rumble. No pause, no fade-out."
+   },
+   {
+    "order": 95,
+    "label": "sfx_wall_long_2",
+    "type": "sfx",
+    "seconds": 10,
+    "cost": 110,
+    "prompt": "Enormous breaking wave chasing closer for ten seconds: continuous thunderous roar of whitewater that gets steadily louder and brighter right to the end, hissing foam on top of a deep rumble. No pause, no fade-out."
+   },
+   {
+    "order": 96,
+    "label": "sfx_riser_3",
+    "type": "sfx",
+    "seconds": 3,
+    "cost": 33,
+    "prompt": "Reverse cymbal swell: starts from silence and builds smoothly for three seconds to a loud bright peak, then cuts instantly to silence. No melody."
+   },
+   {
+    "order": 97,
+    "label": "sfx_riser_4",
+    "type": "sfx",
+    "seconds": 3,
+    "cost": 33,
+    "prompt": "Reverse cymbal swell: starts from silence and builds smoothly for three seconds to a loud bright peak, then cuts instantly to silence. No melody."
+   },
+   {
+    "order": 98,
+    "label": "sfx_eye_open_3",
+    "type": "sfx",
+    "seconds": 2,
+    "cost": 22,
+    "prompt": "Giant wet eyelid peeling open, very close: slimy squelch and stretch of thick skin, then a short low animal grunt. Mid-range, clearly audible on small speakers."
+   },
+   {
+    "order": 99,
+    "label": "sfx_eye_open_4",
+    "type": "sfx",
+    "seconds": 2,
+    "cost": 22,
+    "prompt": "Giant wet eyelid peeling open, very close: slimy squelch and stretch of thick skin, then a short low animal grunt. Mid-range, clearly audible on small speakers."
+   },
+   {
+    "order": 100,
+    "label": "sfx_far_rumble_1",
+    "type": "sfx",
+    "seconds": 4,
+    "cost": 44,
+    "prompt": "Distant wall of water approaching across open flats: low far-off rumble like rolling thunder, growing slowly, with a faint rising hiss. Ominous, no music."
+   },
+   {
+    "order": 101,
+    "label": "sfx_giant_breath_2",
+    "type": "sfx",
+    "seconds": 3,
+    "cost": 33,
+    "prompt": "Huge whale breathing out through its blowhole, close: loud airy rush of breath and spray, hoarse and breathy, then dripping."
+   },
+   {
+    "order": 102,
+    "label": "sfx_wreck_crash_1",
+    "type": "sfx",
+    "seconds": 3,
+    "cost": 33,
+    "prompt": "Huge wave smashing through old wooden ships: timber splintering and cracking, masts snapping, heavy crashing water."
+   },
+   {
+    "order": 103,
+    "label": "sfx_whale_breach_1",
+    "type": "sfx",
+    "seconds": 3,
+    "cost": 33,
+    "prompt": "Enormous whale bursting out of a wave: massive rush and surge of water, heavy splash, spray raining down."
+   },
+   {
+    "order": 104,
+    "label": "sfx_boats_drop_1",
+    "type": "sfx",
+    "seconds": 3,
+    "cost": 33,
+    "prompt": "Several heavy wooden boats dropping onto wet rocks and sand one after another as water drains from under them: deep wooden thuds, hull creaks, chains rattling."
+   },
+   {
+    "order": 105,
+    "label": "sfx_sail_snap_3",
+    "type": "sfx",
+    "seconds": 2,
+    "cost": 22,
+    "prompt": "Large canvas sail filling with a sudden gust: one loud sharp flap and crack of cloth, bright and close, then rope creak."
+   },
+   {
+    "order": 106,
+    "label": "vo_D_N1",
+    "type": "vo",
+    "voice": "Movie trailer narrator, deep epic male voice",
+    "cost": 40,
+    "script": "Once a day, the moon takes the sea away."
+   },
+   {
+    "order": 107,
+    "label": "vo_D_N2",
+    "type": "vo",
+    "voice": "Movie trailer narrator, deep epic male voice",
+    "cost": 18,
+    "script": "You have one hour."
+   },
+   {
+    "order": 108,
+    "label": "vo_D_N3",
+    "type": "vo",
+    "voice": "Movie trailer narrator, deep epic male voice",
+    "cost": 51,
+    "script": "Everything it ever swallowed is waiting down there."
+   },
+   {
+    "order": 109,
+    "label": "vo_D_N4",
+    "type": "vo",
+    "voice": "Movie trailer narrator, deep epic male voice",
+    "cost": 19,
+    "script": "Then it comes back."
+   },
+   {
+    "order": 110,
+    "label": "vo_D_N5",
+    "type": "vo",
+    "voice": "Movie trailer narrator, deep epic male voice",
+    "cost": 10,
+    "script": "Moondrawn."
+   },
+   {
+    "order": 111,
+    "label": "vo_D_N6",
+    "type": "vo",
+    "voice": "Movie trailer narrator, deep epic male voice",
+    "cost": 26,
+    "script": "Be back before the sea is."
+   },
+   {
+    "order": 112,
+    "label": "vo_E_N1",
+    "type": "vo",
+    "voice": "Old woman storyteller, warm weathered female voice",
+    "cost": 40,
+    "script": "Once a day, the moon takes the sea away."
+   },
+   {
+    "order": 113,
+    "label": "vo_E_N2",
+    "type": "vo",
+    "voice": "Old woman storyteller, warm weathered female voice",
+    "cost": 18,
+    "script": "You have one hour."
+   },
+   {
+    "order": 114,
+    "label": "vo_E_N3",
+    "type": "vo",
+    "voice": "Old woman storyteller, warm weathered female voice",
+    "cost": 51,
+    "script": "Everything it ever swallowed is waiting down there."
+   },
+   {
+    "order": 115,
+    "label": "vo_E_N4",
+    "type": "vo",
+    "voice": "Old woman storyteller, warm weathered female voice",
+    "cost": 19,
+    "script": "Then it comes back."
+   },
+   {
+    "order": 116,
+    "label": "vo_E_N5",
+    "type": "vo",
+    "voice": "Old woman storyteller, warm weathered female voice",
+    "cost": 10,
+    "script": "Moondrawn."
+   },
+   {
+    "order": 117,
+    "label": "vo_E_N6",
+    "type": "vo",
+    "voice": "Old woman storyteller, warm weathered female voice",
+    "cost": 26,
+    "script": "Be back before the sea is."
+   },
+   {
+    "order": 118,
+    "label": "vo_F_N1",
+    "type": "vo",
+    "voice": "Cinematic narrator, deep calm female voice",
+    "cost": 40,
+    "script": "Once a day, the moon takes the sea away."
+   },
+   {
+    "order": 119,
+    "label": "vo_F_N2",
+    "type": "vo",
+    "voice": "Cinematic narrator, deep calm female voice",
+    "cost": 18,
+    "script": "You have one hour."
+   },
+   {
+    "order": 120,
+    "label": "vo_F_N3",
+    "type": "vo",
+    "voice": "Cinematic narrator, deep calm female voice",
+    "cost": 51,
+    "script": "Everything it ever swallowed is waiting down there."
+   },
+   {
+    "order": 121,
+    "label": "vo_F_N4",
+    "type": "vo",
+    "voice": "Cinematic narrator, deep calm female voice",
+    "cost": 19,
+    "script": "Then it comes back."
+   },
+   {
+    "order": 122,
+    "label": "vo_F_N5",
+    "type": "vo",
+    "voice": "Cinematic narrator, deep calm female voice",
+    "cost": 10,
+    "script": "Moondrawn."
+   },
+   {
+    "order": 123,
+    "label": "vo_F_N6",
+    "type": "vo",
+    "voice": "Cinematic narrator, deep calm female voice",
+    "cost": 26,
+    "script": "Be back before the sea is."
+   },
+   {
+    "order": 124,
+    "label": "vo_D_N7",
+    "type": "vo",
+    "voice": "Movie trailer narrator, deep epic male voice",
+    "cost": 3,
+    "script": "Go."
+   }
+  ],
+  "music": [
+   {
+    "order": 125,
+    "label": "M3",
+    "description": "Instrumental trailer music for a seafaring adventure. 120 BPM, 4/4, perfectly steady tempo, with a low drum hit on every beat from the very first beat to the last. It starts instantly on beat one: no intro, no silence, no fade-in. Bars 1 to 8 (0:00 to 0:16): quiet and sparse, only the soft low drum pulse, a low-string ostinato and one lone fiddle melody, full of wonder. On the last two beats of bar 8 everything drops to near silence, one held breath. Bar 9 (0:16) explodes: thunderous big drums, full orchestra and brass at full force, the same melody now carried by soaring strings and horns, twice as loud as before, urgent and driving through bars 9 to 12. Bar 13 (0:24): one enormous final hit on the downbeat, then silence. Windswept, hopeful, heroic, not dark. No vocals, no choir, no lyrics, no spoken words."
+   },
+   {
+    "order": 126,
+    "label": "M4",
+    "description": "Instrumental trailer music with a sea-shanty heartbeat. 120 BPM, 4/4, straight rhythm with no swing, perfectly steady tempo, with a heavy foot stomp on every beat from the very first beat to the last and hand claps on beats two and four. It starts instantly on beat one: no intro, no silence, no fade-in. Bars 1 to 8 (0:00 to 0:16): bold and curious, stomps, claps and a deep frame drum under plucked strings and a whistling flute tune. On the last two beats of bar 8 everything drops to near silence, one held breath. Bar 9 (0:16) explodes: massive war drums on every beat, low brass stabs, a driving bass pulse and racing high strings carrying the flute tune an octave higher, twice as loud as before, through bars 9 to 12. Bar 13 (0:24): one enormous final crash on the downbeat, then silence. Salty, adventurous, joyful danger, not dark. No vocals, no humming, no choir, no lyrics, no spoken words."
+   }
+  ]
+ },
+ "t-b": {
+  "video": [
+   {
+    "order": 1,
+    "label": "S8_BEACON",
+    "model": "Veo 3.1 Quality",
+    "duration": 8,
+    "outputs": 1,
+    "cost": 100,
+    "resolution": "1080p (16:9)",
+    "prompt": "Photorealistic modern third-person open-world action-adventure video game footage, full-frame 16:9 widescreen, 24fps real-time graphics. Wide heroic low-angle gameplay shot on the wet stone circular deck of a storm-lashed cliffside bastion above churning dark ocean waves and driving rain. Suspended in a massive iron arch at the center hangs a colossal weathered oxidized-bronze tide-bell. One second into the shot, a lone salvager wearing a dark oiled-canvas storm coat, brass diving goggles over a dark cloth wrap, and a glowing warm-amber hip lantern swings a heavy two-handed brass-and-amber battering striker horizontally into the side of the giant bronze bell. On exact metallic impact, bright golden sparks burst off the bronze rim, the massive bell visibly shudders and swings, and a fast-expanding physical shockwave wall of golden light and compressed white sea-mist blasts radially outward across the churning waves, flattening the ocean spray and parting dark storm clouds continuously through the end of the shot. Clean edge-to-edge frame with no black bars, no text, no HUD, no UI, no numbers, no letters, no logos, no watermarks."
+   },
+   {
+    "order": 2,
+    "label": "S4_VAULT",
+    "model": "Veo 3.1 Fast",
+    "duration": 8,
+    "outputs": 2,
+    "cost": 20,
+    "resolution": "1080p (16:9)",
+    "prompt": "Photorealistic modern third-person action-adventure video game footage, full-frame 16:9 widescreen, 24fps real-time graphics. Medium-wide gameplay shot at the wet silt base of monumental barnacle-encrusted oxidized-bronze double floodgate doors recessed into a dripping black basalt seabed canyon wall. Immediately in the first second, a lone salvager in a dark oiled-canvas storm coat, brass diving goggles, shoulder harpoon-winch, and glowing warm-amber hip lantern grips a massive central spoked bronze lock-wheel mounted on the door with both hands and wrenches it hard clockwise. One second in, a heavy bronze locking bolt slams open with a sharp jet of white pressurized steam, giant bronze gears rotate smoothly, and the towering double floodgate doors grind steadily wide apart through the rest of the shot, spilling warm golden lantern light from inside the sunken vault across the wet black stone. Clean edge-to-edge frame with no black bars, no text, no HUD, no UI, no numbers, no letters, no logos, no watermarks."
+   },
+   {
+    "order": 3,
+    "label": "S5_RETURN",
+    "model": "Veo 3.1 Fast",
+    "duration": 8,
+    "outputs": 2,
+    "cost": 20,
+    "resolution": "1080p (16:9)",
+    "prompt": "Photorealistic modern third-person open-world video game footage, full-frame edge-to-edge 16:9 widescreen, 24fps real-time graphics. Starts low on wet black basalt pebbles vibrating and skittering in shallow puddles, tilting smoothly up in the first second behind the shoulder of a lone salvager in a dark oiled-canvas storm coat, brass diving goggles, and glowing warm-amber hip lantern bracing against a violent coastal gale. Directly ahead across the exposed seabed canyon, a colossal hundred-foot dark turquoise wall of roaring ocean whitewater surges rapidly closer, actively smashing over mid-ground rusted shipwrecks and coral spires while fierce wind whips the salvager's coat and drives thick sheets of white sea spray continuously across the frame. Clean full-bleed 16:9 image with no black letterbox bars, no text, no HUD, no UI, no numbers, no letters, no logos, no watermarks."
+   }
+  ],
+  "sound": [
+   {
+    "order": 4,
+    "label": "vo_C_line1",
+    "type": "vo",
+    "voice": "Trailer narrator, male middle aged deep gravelly cinematic baritone.",
+    "cost": 39,
+    "script": "Twice a day, the whole sea drains bare."
+   },
+   {
+    "order": 5,
+    "label": "vo_C_line2",
+    "type": "vo",
+    "voice": "Trailer narrator, male middle aged deep gravelly cinematic baritone.",
+    "cost": 43,
+    "script": "Forty minutes to take what the deep forgot."
+   },
+   {
+    "order": 6,
+    "label": "vo_C_line3",
+    "type": "vo",
+    "voice": "Trailer narrator, male middle aged deep gravelly cinematic baritone.",
+    "cost": 42,
+    "script": "Before a hundred feet of ocean comes home."
+   },
+   {
+    "order": 7,
+    "label": "vo_C_line4",
+    "type": "vo",
+    "voice": "Trailer narrator, male middle aged deep gravelly cinematic baritone.",
+    "cost": 15,
+    "script": "Outrun the sea."
+   },
+   {
+    "order": 8,
+    "label": "vo_D_line1",
+    "type": "vo",
+    "voice": "Old storyteller, male old deep weathered resonant voice.",
+    "cost": 39,
+    "script": "Twice a day, the whole sea drains bare."
+   },
+   {
+    "order": 9,
+    "label": "vo_D_line2",
+    "type": "vo",
+    "voice": "Old storyteller, male old deep weathered resonant voice.",
+    "cost": 43,
+    "script": "Forty minutes to take what the deep forgot."
+   },
+   {
+    "order": 10,
+    "label": "vo_D_line3",
+    "type": "vo",
+    "voice": "Old storyteller, male old deep weathered resonant voice.",
+    "cost": 42,
+    "script": "Before a hundred feet of ocean comes home."
+   },
+   {
+    "order": 11,
+    "label": "vo_D_line4",
+    "type": "vo",
+    "voice": "Old storyteller, male old deep weathered resonant voice.",
+    "cost": 15,
+    "script": "Outrun the sea."
+   },
+   {
+    "order": 12,
+    "label": "beacon_ram_1",
+    "type": "sfx",
+    "seconds": 8,
+    "cost": 88,
+    "prompt": "Heavy brass battering-ram striking a colossal weathered bronze sea-bell hard at the exact start, earth-shaking low-mid metallic gong transient with thunderous air-splitting shockwave boom and long rich harmonic bronze chime decay, no music."
+   },
+   {
+    "order": 13,
+    "label": "beacon_ram_auto",
+    "type": "sfx",
+    "seconds": null,
+    "cost": 100,
+    "prompt": "Heavy brass battering-ram striking a colossal weathered bronze sea-bell hard at the exact start, earth-shaking low-mid metallic gong transient with thunderous air-splitting shockwave boom and long natural echoing bronze bell decay across stormy sea air, no music."
+   },
+   {
+    "order": 14,
+    "label": "anchor_slam_3",
+    "type": "sfx",
+    "seconds": 2,
+    "cost": 22,
+    "prompt": "Close heavy forged iron anchor spike smashing down onto solid wet basalt rock at the exact start, massive low-mid metallic anvil thud with bright flint spark crackle, dry punchy close transient, no music."
+   },
+   {
+    "order": 15,
+    "label": "anchor_slam_4",
+    "type": "sfx",
+    "seconds": 2,
+    "cost": 22,
+    "prompt": "Close heavy forged iron anchor spike smashing down onto solid wet basalt rock at the exact start, massive low-mid metallic anvil thud with bright flint spark crackle, dry punchy close transient, no music."
+   },
+   {
+    "order": 16,
+    "label": "hook_wave_1",
+    "type": "sfx",
+    "seconds": 3,
+    "cost": 33,
+    "prompt": "Heavy ocean wave smashing violently onto close wet black coastal rock right at the start, deep chest-thumping water impact bursting into thick white spray hiss, close perspective, no music."
+   },
+   {
+    "order": 17,
+    "label": "hook_wave_2",
+    "type": "sfx",
+    "seconds": 3,
+    "cost": 33,
+    "prompt": "Heavy ocean wave smashing violently onto close wet black coastal rock right at the start, deep chest-thumping water impact bursting into thick white spray hiss, close perspective, no music."
+   },
+   {
+    "order": 18,
+    "label": "boot_gravel_1",
+    "type": "sfx",
+    "seconds": 1,
+    "cost": 11,
+    "prompt": "Heavy wet leather work-boot stomping firmly onto crunchy wet gravel and solid stone ledge right at the start, close meaty foley thud, dry."
+   },
+   {
+    "order": 19,
+    "label": "boot_gravel_2",
+    "type": "sfx",
+    "seconds": 1,
+    "cost": 11,
+    "prompt": "Heavy wet leather work-boot stomping firmly onto crunchy wet gravel and solid stone ledge right at the start, close meaty foley thud, dry."
+   },
+   {
+    "order": 20,
+    "label": "coat_billow_1",
+    "type": "sfx",
+    "seconds": 2,
+    "cost": 22,
+    "prompt": "Heavy wet oiled-canvas trench coat snapping and billowing sharply in a sudden strong sea-cliff wind gust right at the start, close tactile fabric whip, no voices."
+   },
+   {
+    "order": 21,
+    "label": "coat_billow_2",
+    "type": "sfx",
+    "seconds": 2,
+    "cost": 22,
+    "prompt": "Heavy wet oiled-canvas trench coat snapping and billowing sharply in a sudden strong sea-cliff wind gust right at the start, close tactile fabric whip, no voices."
+   },
+   {
+    "order": 22,
+    "label": "skiff_launch_1",
+    "type": "sfx",
+    "seconds": 3,
+    "cost": 33,
+    "prompt": "Heavy wooden-and-brass hydro-skiff runners scraping off a barnacled timber ramp right at the start into a rushing airborne wind whoosh, punchy wood-and-brass scrape transient."
+   },
+   {
+    "order": 23,
+    "label": "skiff_launch_2",
+    "type": "sfx",
+    "seconds": 3,
+    "cost": 33,
+    "prompt": "Heavy wooden-and-brass hydro-skiff runners scraping off a barnacled timber ramp right at the start into a rushing airborne wind whoosh, punchy wood-and-brass scrape transient."
+   },
+   {
+    "order": 24,
+    "label": "skiff_splash_1",
+    "type": "sfx",
+    "seconds": 3,
+    "cost": 33,
+    "prompt": "Heavy wooden skiff hull slamming down onto shallow coastal water at high speed right at the start, punchy water-slap impact followed by twin hydroplaning spray wakes."
+   },
+   {
+    "order": 25,
+    "label": "skiff_splash_2",
+    "type": "sfx",
+    "seconds": 3,
+    "cost": 33,
+    "prompt": "Heavy wooden skiff hull slamming down onto shallow coastal water at high speed right at the start, punchy water-slap impact followed by twin hydroplaning spray wakes."
+   },
+   {
+    "order": 26,
+    "label": "wheel_bolt_1",
+    "type": "sfx",
+    "seconds": 2,
+    "cost": 22,
+    "prompt": "Heavy spoked bronze vault wheel wrenched hard until a massive iron locking bolt slams open right at the start, deep resonant metallic clunk and heavy gear engage."
+   },
+   {
+    "order": 27,
+    "label": "wheel_bolt_2",
+    "type": "sfx",
+    "seconds": 2,
+    "cost": 22,
+    "prompt": "Heavy spoked bronze vault wheel wrenched hard until a massive iron locking bolt slams open right at the start, deep resonant metallic clunk and heavy gear engage."
+   },
+   {
+    "order": 28,
+    "label": "steam_blast_1",
+    "type": "sfx",
+    "seconds": 3,
+    "cost": 33,
+    "prompt": "High-pressure industrial bronze steam valve bursting open right at the start with a punchy low-mid thump and thick roaring white steam jet, close perspective."
+   },
+   {
+    "order": 29,
+    "label": "steam_blast_2",
+    "type": "sfx",
+    "seconds": 3,
+    "cost": 33,
+    "prompt": "High-pressure industrial bronze steam valve bursting open right at the start with a punchy low-mid thump and thick roaring white steam jet, close perspective."
+   },
+   {
+    "order": 30,
+    "label": "harpoon_blast_1",
+    "type": "sfx",
+    "seconds": 2,
+    "cost": 22,
+    "prompt": "Heavy brass black-powder harpoon cannon firing right at the start, punchy low-mid cannon thump with sharp metallic carapace impact spark and taut steel cable whip, no music."
+   },
+   {
+    "order": 31,
+    "label": "harpoon_blast_2",
+    "type": "sfx",
+    "seconds": 2,
+    "cost": 22,
+    "prompt": "Heavy brass black-powder harpoon cannon firing right at the start, punchy low-mid cannon thump with sharp metallic carapace impact spark and taut steel cable whip, no music."
+   },
+   {
+    "order": 32,
+    "label": "chain_winch_1",
+    "type": "sfx",
+    "seconds": 3,
+    "cost": 33,
+    "prompt": "Heavy iron chain hauling rapidly through a large bronze pulley ratchet under extreme load right from the start, fast rhythmic metallic chain clanking and mechanical winch drive."
+   },
+   {
+    "order": 33,
+    "label": "chain_winch_2",
+    "type": "sfx",
+    "seconds": 3,
+    "cost": 33,
+    "prompt": "Heavy iron chain hauling rapidly through a large bronze pulley ratchet under extreme load right from the start, fast rhythmic metallic chain clanking and mechanical winch drive."
+   }
+  ],
+  "music": [
+   {
+    "order": 34,
+    "label": "Music Attempt 4 (Exact 120 BPM Unbroken Crescendo — Anvil, Chains & Storm Brass)",
+    "description": "Dark cinematic maritime action trailer score, strict steady 120 BPM tempo from first beat to end, instrumental only, no vocals. Hits immediately on beat one with taut forged-bronze anvil strikes, rattling anchor-chain percussion, and an urgent bowed low-cello ostinato, building in one unbroken continuous crescendo with zero quiet breakdown—layering heavy sea-war drums, driving spiccato strings, and towering minor-key storm brass swells to maximum intensity."
+   }
+  ]
+ },
+ "t-c": {
+  "video": [
+   {
+    "order": 27,
+    "label": "S5_QUAY_ICE",
+    "model": "Veo 3.1 Fast",
+    "duration": 8,
+    "outputs": 2,
+    "cost": 20,
+    "resolution": "1920×1080",
+    "prompt": "One continuous shot, natural speed, 16:9 edge to edge. A handmade saltwater valley at night. Chipped bottle-green hull paint, aged ivory trim, wet timber and plum-black water. Painted wood grain catches the light like a working harbour miniature. Warm apricot is the only strong light. All visible surfaces are plain and unmarked. No text, lettering, digits, signs, logos, captions, borders or interface. Look steeply down from a bare stone landing. The lowest three steps fill the right edge. The rest of the frame is white harbour ice. A short strip of open water at the left edge holds the stern of a green tug and its cargo, one small incandescent apricot sun floating just above the surface on a short black line. Lock the camera. As the orb passes, a hairline runs from its reflection toward the steps. Two broad plates slide apart across the middle of the frame. By second four a band of black liquid water runs all the way to the lowest stair. Its first gold ripple washes the stone. Hold on the moving water for two seconds. The upper edge of frame ends at the top tread."
+   },
+   {
+    "order": 28,
+    "label": "S2_STARBOARD",
+    "model": "Veo 3.1 Fast",
+    "duration": 8,
+    "outputs": 2,
+    "cost": 20,
+    "resolution": "1920×1080",
+    "prompt": "One continuous shot, natural speed, 16:9 edge to edge. A handmade saltwater valley at night. Chipped bottle-green hull paint, aged ivory trim, wet timber and plum-black water. Painted wood grain catches the light like a working harbour miniature. Warm apricot is the only strong light. All visible surfaces are plain and unmarked. No text, lettering, digits, signs, logos, captions, borders or interface. Locked bird's-eye view, straight down. An island shaped like an arrowhead splits one narrow canal into two. Rows of squat pear trees line the left channel. A single blue stone arch crosses the right channel. Starting at the bottom centre, a stubby green tug with an ivory cabin approaches the tip of the island. Its bow swings clockwise through a quarter turn and enters the channel on screen right. Hold both branches in view as the tug passes the tip and its curved white wake wraps around the island. Warm light from astern, dark corners. Everything in frame is water, banks, trees, arch or boat."
+   },
+   {
+    "order": 29,
+    "label": "S3_LOWER",
+    "model": "Veo 3.1 Fast",
+    "duration": 6,
+    "outputs": 2,
+    "cost": 20,
+    "resolution": "1920×1080",
+    "prompt": "One continuous shot, natural speed, 16:9 edge to edge. A handmade saltwater valley at night. Chipped bottle-green hull paint, aged ivory trim, wet timber and plum-black water. Painted wood grain catches the light like a working harbour miniature. Warm apricot is the only strong light. All visible surfaces are plain and unmarked. No text, lettering, digits, signs, logos, captions, borders or interface. Locked side view of the tug's stern. An iron winding drum is bolted to the rail at bottom left. A single taut rope rises diagonally up and right from the drum to the underside of a glowing, orange-peel-textured sphere. The whole sphere hangs high against black air. A plum-sleeved hand turns the crank. The shortening rope pulls the sphere down and left by its own diameter in three seconds. Keep the entire rope visible throughout the descent. Stop with the sphere hovering level with the rail, a finger of air between it and its reflection. The drum stops and the sphere settles. Only the hand, drum, rail, rope, sphere and water are in view."
+   },
+   {
+    "order": 30,
+    "label": "S4_CLEARANCE",
+    "model": "Veo 3.1 Fast",
+    "duration": 8,
+    "outputs": 2,
+    "cost": 20,
+    "resolution": "1920×1080",
+    "prompt": "One continuous shot, natural speed, 16:9 edge to edge. A handmade saltwater valley at night. Chipped bottle-green hull paint, aged ivory trim, wet timber and plum-black water. Painted wood grain catches the light like a working harbour miniature. Warm apricot is the only strong light. All visible surfaces are plain and unmarked. No text, lettering, digits, signs, logos, captions, borders or interface. The camera rides low on the stern of a moving tug, looking straight back along its short black towline. There is one cargo, a single round apricot sun skimming the water at the end of that line. We begin just inside a short, low brick tunnel. The sun lights the wet underside of the last blue masonry arch above it. The camera backs out into open water and the same sphere follows. Watch the stone lip pass just above the glowing top of the sphere. By second four a visible strip of black sky separates the top of the sphere from the receding arch. Hold the gap as the bridge falls away. Frame the stern rail along the bottom."
+   },
+   {
+    "order": 31,
+    "label": "S5_LOWEST_STEP",
+    "model": "Veo 3.1 Fast",
+    "duration": 8,
+    "outputs": 2,
+    "cost": 20,
+    "resolution": "1920×1080",
+    "prompt": "One continuous shot, natural speed, 16:9 edge to edge. A handmade saltwater valley at night. Chipped bottle-green hull paint, aged ivory trim, wet timber and plum-black water. Painted wood grain catches the light like a working harbour miniature. Warm apricot is the only strong light. All visible surfaces are plain and unmarked. No text, lettering, digits, signs, logos, captions, borders or interface. Waterline close-up, bolted camera, one bare green-painted timber pile on the left and one worn stone stair on the right. A continuous rind of dull white ice is frozen to the stair. Apricot light from a passing boat off camera travels across the ice from left to right. The rind splits, breaks free as one palm-sized plate and noses against the timber pile. In the space it leaves, a bright gold ripple runs up the dark wet stair and slips back. Start the split within two seconds. Stay on the freed water to the end. The entire picture is wood, stone, ice and water."
+   },
+   {
+    "order": 32,
+    "label": "S2_HELM",
+    "model": "Veo 3.1 Fast",
+    "duration": 6,
+    "outputs": 2,
+    "cost": 20,
+    "resolution": "1920×1080",
+    "prompt": "One continuous shot, natural speed, 16:9 edge to edge. A handmade saltwater valley at night. Chipped bottle-green hull paint, aged ivory trim, wet timber and plum-black water. Painted wood grain catches the light like a working harbour miniature. Warm apricot is the only strong light. All visible surfaces are plain and unmarked. No text, lettering, digits, signs, logos, captions, borders or interface. Skipper's-eye view through a plain ivory wheelhouse window. A worn wooden steering wheel fills the lower quarter. Dead ahead the canal divides around a wedge of black reeds. Pear trees crowd the left opening. A low blue brick arch spans the right opening. A hand in a plum oilskin sleeve turns the wheel clockwise. The boat visibly yaws right. The arch swings from the right edge into the middle of the window while the orchard slips out to the left. Hold the wheel steady with open water framed inside the arch. Night, warm light over the skipper's shoulder, plain sill and bare dashboard."
+   }
+  ],
+  "sound": [
+   {
+    "order": 33,
+    "label": "stair_wash",
+    "type": "sfx",
+    "seconds": null,
+    "cost": 100,
+    "prompt": "A single thin wave washes up one coarse stone tread and drains through a crack. Close to the stone. A distinct soft slap at the front with a short, fine-grained tail."
+   },
+   {
+    "order": 34,
+    "label": "ice_on_pile",
+    "type": "sfx",
+    "seconds": null,
+    "cost": 100,
+    "prompt": "One palm-sized wafer of ice taps a hollow wet timber post. A brittle high tick with wood underneath, followed by two tiny crystals settling. Isolated foreground contact."
+   },
+   {
+    "order": 35,
+    "label": "wheel_grip",
+    "type": "sfx",
+    "seconds": null,
+    "cost": 100,
+    "prompt": "Close inside a quiet boat cabin. An oilskin cuff brushes the rim as a hand takes hold of a wooden wheel. A brief sleeve scuff and a dry squeeze of wood, one gesture."
+   },
+   {
+    "order": 36,
+    "label": "loaf_lift",
+    "type": "sfx",
+    "seconds": null,
+    "cost": 100,
+    "prompt": "A warm round loaf lifted from a flour-dusted wooden sill. Immediate papery peel of crust leaving the board, then loose flour sifting down. One gentle lift in a quiet room."
+   },
+   {
+    "order": 37,
+    "label": "quay_perspective",
+    "type": "sfx",
+    "seconds": 30,
+    "cost": 330,
+    "prompt": "Still harbour heard from the bakery threshold. Small lapping water outside to the left, intimate sheltered air at centre, an occasional drip falling beneath the floor. Quiet and even enough to carry a spoken question. Continuous location ambience without voices or music."
+   },
+   {
+    "order": 38,
+    "label": "tiller_load",
+    "type": "sfx",
+    "seconds": 12,
+    "cost": 132,
+    "prompt": "Slow wooden steering gear taking load beneath a wheelhouse. Low rubbing timber and a deeper vibration as the rudder bites into water. One smooth rise over three seconds, then a steady light pressure. Close mechanical detail."
+   },
+   {
+    "order": 39,
+    "label": "short_line",
+    "type": "sfx",
+    "seconds": 8,
+    "cost": 88,
+    "prompt": "Thick wet rope winding tightly onto a small drum. Individual strands rasp against the previous turn, the interval shortens, then the friction comes to rest. Close, dry, no ratchet clicks."
+   },
+   {
+    "order": 40,
+    "label": "arch_tail",
+    "type": "sfx",
+    "seconds": 8,
+    "cost": 88,
+    "prompt": "A small slap of water repeats against the curved bricks of a low tunnel. First close and hollow, each return farther behind the listener until only the open canal remains. Water and its reflection in stone."
+   },
+   {
+    "order": 41,
+    "label": "ice_underside",
+    "type": "sfx",
+    "seconds": 12,
+    "cost": 132,
+    "prompt": "Ear just under a thin frozen surface. A low resonant bend climbs in pitch for two seconds, a fissure travels away, then a slow train of bubbles escapes through the gap. One continuous thaw, close and clear."
+   },
+   {
+    "order": 42,
+    "label": "apron_and_crumb",
+    "type": "sfx",
+    "seconds": 5,
+    "cost": 55,
+    "prompt": "At arm's length, a flour-dusted linen cuff withdrawing past a rough bread crust. One soft cloth movement followed by a few crumbs hitting a wooden board. Quiet and tactile."
+   },
+   {
+    "order": 43,
+    "label": "banked_oven",
+    "type": "sfx",
+    "seconds": 8,
+    "cost": 88,
+    "prompt": "Inside a little bakery before work. One banked oven exhales softly through its vent. A few coals settle deep behind the iron door. Warm low air with fine dry detail, steady perspective, no people or music."
+   }
+  ],
+  "music": [
+   {
+    "order": 44,
+    "label": "M4",
+    "description": "An original twelve-bar harbour tune in four at 96 BPM. Start on beat one, no introduction. One low plucked gut string asks a two-note question. A small reed organ answers a sixth higher. Bars three and four pick up the uneven gait of a little engine. In bars five and six the reeds draw into one held breath. Open the harmony at bar seven like light spreading under ice. At bar nine, drop the bass and leave two bars of space for someone speaking at a window, just fingertips brushing a string. At bar eleven the opening question returns once. Answer on the first beat of bar twelve and let it decay through the remaining beats. This opening statement is complete in thirty seconds. Leave a full bar of rest before any further phrase. Intimate, dry instrumental recording."
+   }
+  ]
+ }
+}

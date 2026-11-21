@@ -1,0 +1,16 @@
+{
+  "all": [
+    "Video was generated in Google Flow on 21 Nov 2026 in the early morning, Istanbul time. Flow's prompt agent was off. Every prompt was checked against your order before it was submitted. No clip was refused and none was regenerated.",
+    "Flow returns 7.85 s for an 8 s Veo order, 5.88 s for a 6 s Veo order and 4.96 s for a 5 s Omni order.",
+    "All video models generate at 720p. The files here are Flow's 1080p upscale of those clips.",
+    "Take numbers (t1, t2) follow the left to right order of the outputs in Flow.",
+    "Music: each description was submitted once and returned one track.",
+    "Sound effects and voice were generated on 21 Nov 2026 between 03:04 and 03:21 Istanbul time, with the same rules as round 1."
+  ],
+  "t-a": [
+    "Voices for round 2 were picked fresh from your round 2 descriptions with the same rule as round 1."
+  ],
+  "t-b": [
+    "Voices for round 2 were picked fresh from your round 2 descriptions with the same rule as round 1."
+  ]
+}
