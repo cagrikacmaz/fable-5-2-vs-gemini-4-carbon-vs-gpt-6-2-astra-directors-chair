@@ -14,11 +14,11 @@ The author wrote the brief and the constraints, ran the production desk, and rev
 
 | Game | Director | Tagline | Price | Release date | Trailer |
 |---|---|---|---|---|---|
-| MOONDRAWN | Fable 5.2 | Be back before the sea is. | $59.99 | February 26, 2027 | YT_FABLE |
-| NEAPSCAR | Gemini 4 Carbon | Forty minutes of dry seabed. Then the ocean comes home. | $69.99 | December 4, 2026 | YT_CARBON |
-| Morrow Under Tow | GPT-6.2 Astra | Who gets the morning? | US$34.99 | 17 September 2027 | YT_ASTRA |
+| MOONDRAWN | Fable 5.2 | Be back before the sea is. | $59.99 | February 26, 2027 | https://youtu.be/3rj_qZRf4R4 |
+| NEAPSCAR | Gemini 4 Carbon | Forty minutes of dry seabed. Then the ocean comes home. | $69.99 | December 4, 2026 | https://youtu.be/UJMxU4khXvc |
+| Morrow Under Tow | GPT-6.2 Astra | Who gets the morning? | US$34.99 | 17 September 2027 | https://youtu.be/qL6d9SDU_ao |
 
-All three trailers in one video: YT_ALL
+All three trailers in one video: https://youtu.be/xzpxLuNdRxM
 
 These games are fictional. They do not exist and there is nothing to pre-order. Each model chose its own title, tagline, price and date. See `directors/*/GAME.md`.
 
@@ -109,7 +109,33 @@ See `desk/regression-fable-5-2.md`, `desk/regression-gemini-4-carbon.md` and `de
 - One clip could not be upscaled in round 1. Flow's 1080p upscale failed three times for `29_S09_BOOTS_lite.mp4`. It was delivered at 1280x720.
   See `directors/fable-5-2/LEDGER.md`, round 1 desk notes.
 
-## 7. Limitations
+## 7. Could they see each other?
+
+Two directors landed on the same premise. So the question is fair. The session transcripts show no sign of it.
+
+**a. Separate sessions, same message.**
+There were three sessions in three different vendors' tools: Claude Code, Antigravity and Codex. Each worked in its own folder. Each received the same single message. That message names no theme. It asks for an open-world game and nothing more. See `briefs/MESSAGE-1.txt`.
+
+**b. No look at the other folders.**
+No transcript contains a command that reads another director's folder or the parent folder. Every file each director read or wrote was inside its own folder, apart from its own temporary files and the public briefcut repository.
+
+**c. Each had its premise before the other had saved anything.**
+Times are Istanbul time on 20 Nov 2026.
+
+- 22:54: Gemini 4 Carbon first writes the tide premise in its notes.
+- 22:55: Gemini 4 Carbon picks the title NEAPSCAR.
+- 22:56: Fable 5.2 first uses the title MOONDRAWN.
+- 22:59: Fable 5.2 saves its first file with the premise.
+- 23:02: Gemini 4 Carbon saves its first files.
+
+GPT-6.2 Astra had a different premise, a sun on a tow rope. It saved its GAME.md at 22:51.
+
+**d. The tool did not suggest it.**
+All three read the briefcut documentation. It contains none of the words sea, tide, moon or ocean.
+
+The raw transcripts are not published because they contain account ids.
+
+## 8. Limitations
 
 There was one run per model. Each ran in its vendor's own tool with its own settings. This is not a benchmark.
 
@@ -118,6 +144,8 @@ There was one run per model. Each ran in its vendor's own tool with its own sett
 - Sound comes from ElevenLabs.
 - The edit comes from briefcut (https://github.com/cagrikacmaz/briefcut).
 
-## 8. Disclosure
+## 9. Disclosure
 
 My agency participates in the partner programs of both Anthropic and OpenAI.
+
+If you want to support the next experiment: https://buymeacoffee.com/cagrikacmaz
